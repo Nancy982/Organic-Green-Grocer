@@ -1,0 +1,20 @@
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.exe.config
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic_Greengrocer.Form1.resources
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic_Greengrocer.Resources.resources
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.vbproj.GenerateResource.Cache
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.exe
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.pdb
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.xml
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.exe
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.xml
+E:\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.pdb
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.exe.config
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.exe
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.xml
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.pdb
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.exe
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.pdb
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\bin\Debug\Organic Greengrocer.xml
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic_Greengrocer.Form1.resources
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic_Greengrocer.Resources.resources
+D:\CS Classes\CS105\Medina-Project2\Organic Greengrocer\Organic Greengrocer\obj\Debug\Organic Greengrocer.vbproj.GenerateResource.Cache
